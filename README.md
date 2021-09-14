@@ -1,2 +1,2 @@
 # CSE-0317
-This Is Software Engineering Lab Repository
+This is a Software Engineering repository.
